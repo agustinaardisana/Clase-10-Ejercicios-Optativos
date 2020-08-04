@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
 
-.fas {
+.menu-hamburguesa {
     display: none;
 }
 
@@ -32,7 +32,7 @@ a, i {
         display: none;
     }
 
-    .hamburguesa {
+    .menu-hamburguesa {
         display: block;
     }
 }
